@@ -49,6 +49,8 @@ ssh -g root@10.1.0.3 -L 8081:10.1.0.3:8000
 Other clients will be able to access using:
 > http://<ClientA_IP>:8082
 
+![alt text](https://github.com/MTMonteiro/challenge-remote-access/blob/master/solution/Clients.png)
+
 
 ***The use of a key in these cases is recommended if you do not want to keep pressing the password frequently.***
 
