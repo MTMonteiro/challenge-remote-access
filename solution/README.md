@@ -19,7 +19,7 @@ The option to use the ssh tunnel is due to the practicality and ease of implemen
 ```bash
 $ ssh <user>@<IP_ServerA> <Local_Port>:<IP_ServerB>:<Remote_PortB>
 ```
-## Exemple:
+## Exemple
 Mapping port 8000 from server B to local port 8082:
 > <IP_ServerA> = 10.1.0.3
 
@@ -64,6 +64,10 @@ Usage is almost the same as ssh.
 ```shell
 $ autossh root@10.1.0.3 -L 8082:10.1.0.4:8000
 ```
-***To get a little more performance, we have the <a href="https://github.com/sshuttle/sshuttle.git" target="_blank">`sshuttle`</a>***
+
+
+***To get a little more performance, we have the <a href="https://github.com/sshuttle/sshuttle.git" target="_blank">`sshuttle !`</a>***
+
+
 
 Code by _Matheus Monteiro_.
