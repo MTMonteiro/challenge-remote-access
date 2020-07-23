@@ -66,7 +66,7 @@ $ autossh root@10.1.0.3 -L 8082:10.1.0.4:8000
 ```
 
 
-***To get a little more performance, we have the <a href="https://github.com/sshuttle/sshuttle.git" target="_blank">`sshuttle !`</a>***
+***To get a little more performance, we have the <a href="https://github.com/sshuttle/sshuttle.git" target="_blank">`sshuttle </a>!***
 
 
 
