@@ -54,7 +54,7 @@ Other clients will be able to access using:
 
 ***The use of a key in these cases is recommended if you do not want to keep pressing the password frequently.***
 
-# instalando o autossh:
+# installing the autossh:
 ```shell
 $ sudo yum install autossh
 ```
